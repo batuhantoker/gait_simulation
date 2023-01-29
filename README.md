@@ -1,4 +1,4 @@
-# Gait simulator
+# Gait simulator - under development
 a Python GUI to simulate gait cycle using pendulum, and spring loaded pendulum models. The GUI is built with tkinter and allows user to simulate following
 
 * Simulation of one leg, inverted pendulum model 
